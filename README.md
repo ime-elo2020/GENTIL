@@ -20,10 +20,14 @@ No projeto serão utilizados:
 ## Pinagem
 
 USB SERIAL -> PA11 e PB12 
-CH6 HK6S -> PA0: SINAL A
-CH5 HK6S -> PD12: SINAL B
-CH4 HK6S -> PA6: SINAL C
-CH3 HK6S -> PA8: SINAL D
+
+CH6 HK6S -> PC1: SINAL A
+
+CH5 HK6S -> PC2: SINAL B
+
+CH4 HK6S -> PC15: SINAL C
+
+CH3 HK6S -> PC14: SINAL D
 
 ## Fluxogram
   Os canais do recptor são lidas em variaveis glopais através de interrupt, mas (com exeção do sinal start) são recebidas por variavéis
