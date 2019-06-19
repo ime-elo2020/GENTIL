@@ -19,7 +19,7 @@ No projeto serão utilizados:
 
 ## Pinagem
 
-USB SERIAL -> PA11 e PB12 
+USB SERIAL -> PA10, PA9 e PA8: USART1 
 
 CH6 HK6S -> PC1: SINAL A
 
